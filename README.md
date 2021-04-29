@@ -6,9 +6,12 @@
 索性自己再稍微修改一下，重新上传
 
 ## 食用方法
-`Download ZIP`,
+`Download ZIP`
+
 上传至 `usr/plugins` 目录
+
 重命名文件夹为 `GoTop`
+
 登录后台启用即可
 
 ## 更新信息：
